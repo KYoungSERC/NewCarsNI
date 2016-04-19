@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Hello">Hello World, Click Me!</string>
+    <string name="ApplicationName">NewCarsND</string>
+    <string name="intro">                    Welcome to</string>
+	  <string name ="name">NewCarsND</string>
+	  <string name ="please">Please</string>
+	  <string name="select">select</string>
+	  <string name="intro_instruct">a vehicle manufacturer to see information about authorised dealers</string>
+</resources>
